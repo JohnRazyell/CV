@@ -141,6 +141,18 @@ section .heading h2
     margin-top: 5px;
     text-shadow: 1px 1px 1px #000;
 }
+.imgCompetence
+{
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    background: #ddd;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+
+}
 
 
 /* EXPERIENCE */
@@ -264,7 +276,7 @@ section .heading h2
 }
 .diplome-block
 {
-    width:90%;
+    width:100%;
     margin: 0 auto;
     text-align: center;
     padding: 30px;
