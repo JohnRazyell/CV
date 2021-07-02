@@ -220,7 +220,7 @@ section .heading h2
 }
 .timeline-panel
 {
-    width: 90%;
+    width: 100%;
     float: right;
     margin-right: 40px;
     border: 1px solid #d4d4d4;
